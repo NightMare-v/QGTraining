@@ -1,0 +1,9 @@
+﻿  duLinkedList.c
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967,1): warning C4005: “OVERFLOW”: 宏重定义
+F:\learning\html\QG训练营第一次培训1\代码和头文件\duLinkList\duLinkedList.h(25): message : 参见“OVERFLOW”的前一个定义
+  正在生成代码
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Dulinklist.vcxproj -> F:\learning\html\QG训练营第一次培训1\可执行文件\Dulinklist\Release\Dulinklist.exe
