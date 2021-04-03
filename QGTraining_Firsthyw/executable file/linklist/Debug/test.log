@@ -1,8 +1,0 @@
-﻿  linkedList.c
-F:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967,1): warning C4005: “OVERFLOW”: 宏重定义
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\linkList\linkedList.h(24): message : 参见“OVERFLOW”的前一个定义
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\linkList\linkedList.c(21,44): warning C4047: “=”:“LinkedList”与“LinkedList *”的间接级别不同
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\linkList\linkedList.c(234,35): warning C4028: 形参 1 与声明不同
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\linkList\linkedList.c(237,1): warning C4047: “初始化”:“LinkedList”与“LinkedList *”的间接级别不同
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\linkList\linkedList.c(261,31): warning C4028: 形参 1 与声明不同
-  test.vcxproj -> F:\learning\html\QG训练营第一次培训hyw\可执行文件\linklist\Debug\test.exe
