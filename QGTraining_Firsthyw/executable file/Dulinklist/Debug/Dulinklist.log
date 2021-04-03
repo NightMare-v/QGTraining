@@ -1,5 +1,0 @@
-﻿  duLinkedList.c
-F:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967,1): warning C4005: “OVERFLOW”: 宏重定义
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\duLinkList\duLinkedList.h(25): message : 参见“OVERFLOW”的前一个定义
-F:\learning\html\QG训练营第一次培训hyw\代码和头文件\duLinkList\duLinkedList.c(21,48): warning C4047: “=”:“DuLinkedList”与“DuLinkedList *”的间接级别不同
-  Dulinklist.vcxproj -> F:\learning\html\QG训练营第一次培训hyw\可执行文件\Dulinklist\Debug\Dulinklist.exe

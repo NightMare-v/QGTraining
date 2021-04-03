@@ -1,4 +1,0 @@
-F:\learning\html\QG训练营第一次培训1\可执行文件\test\Debug\test.exe
-F:\learning\html\QG训练营第一次培训1\可执行文件\test\Debug\test.pdb
-F:\learning\html\QG训练营第一次培训hyw\可执行文件\linklist\Debug\test.exe
-F:\learning\html\QG训练营第一次培训hyw\可执行文件\linklist\Debug\test.pdb
